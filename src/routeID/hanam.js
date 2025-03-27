@@ -14,6 +14,7 @@ const KD_green = {
   "배알미-01": 227000045,
   "초이-01": 227000046,
 };
+
 const KD_red = {
   "3000": 227000038,
   "9202": 227000035,
@@ -44,3 +45,6 @@ const ma_ul = {
   "초이-04": 1
 };
   
+module.exports = {
+   KD_green, KD_red, ma_ul
+};
